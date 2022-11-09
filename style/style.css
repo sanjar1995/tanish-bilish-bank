@@ -435,3 +435,10 @@ a {
     color: #626262;
     text-align: center;
 }
+.menu-btn{
+    border: none;
+    text-transform: uppercase;
+    font-size: 18px;
+    background: transparent;
+    display: none;
+}
